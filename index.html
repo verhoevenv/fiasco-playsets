@@ -1,1 +1,10 @@
-Hello world! More coming soon!
+---
+---
+<meta charset="utf-8"/>
+<ul>
+{% for ruleset in site.data.rulesets %}
+<li>{{ ruleset.name }}</li>
+<li>{{ ruleset.authors }}</li>
+<li>{{ ruleset.tags }}</li>
+{% endfor %}
+</ul>

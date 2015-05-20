@@ -1,0 +1,12 @@
+title: Fiasco Rulesets
+email: verhoevenv@gmail.com
+description: >
+  A listing of Fiasco rulesets
+baseurl: ""
+url: "http://verhoevenv.github.io/fiasco-rulesets"
+
+markdown: kramdown
+
+exclude:
+  - "README.md"
+  - "LICENSE"
