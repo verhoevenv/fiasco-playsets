@@ -1,10 +1,32 @@
 ---
 ---
+<!DOCTYPE html>
 <meta charset="utf-8"/>
-<ul>
-{% for ruleset in site.data.rulesets %}
-<li>{{ ruleset.name }}</li>
-<li>{{ ruleset.authors }}</li>
-<li>{{ ruleset.tags }}</li>
-{% endfor %}
-</ul>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<!-- Bootstrap table -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.7.0/bootstrap-table.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.7.0/bootstrap-table.min.js"></script>
+</head>
+
+<body>
+
+<table data-toggle="table" data-url="rulesets.json">
+    <thead>
+        <tr>
+            <th data-field="name">Name</th>
+            <th data-field="authors">Authors</th>
+            <th data-field="tags">Tags</th>
+        </tr>
+    </thead>
+</table>
+</body>
+</html>
