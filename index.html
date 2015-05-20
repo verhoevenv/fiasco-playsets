@@ -17,13 +17,14 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.7.0/bootstrap-table.min.js"></script>
 </head>
 
+<script src="load_rulesets.js"></script>
 <body>
 
-<table data-toggle="table" data-url="rulesets.json">
+<table id="table" data-search="true">
     <thead>
         <tr>
-            <th data-field="name">Name</th>
-            <th data-field="authors">Authors</th>
+            <th data-field="name" data-sortable="true">Name</th>
+            <th data-field="authors" data-sortable="true">Authors</th>
             <th data-field="tags">Tags</th>
         </tr>
     </thead>
