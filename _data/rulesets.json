@@ -28,5 +28,75 @@
 		"name" : "Camp Death",
 		"authors" : ["James Gabrielsen"],
 		"tags" : ["Slasher", "Advanced level", "Special rules"]
+	},
+	{
+		"name" : "D.C. 73",
+		"authors" : ["Logan Bonner"],
+		"tags" : ["Political", "Cold War"]
+	},
+	{
+		"name" : "Dallas 1963",
+		"authors" : ["Chris Bennet"],
+		"tags" : ["Historical", "Political", "JFK", "USA-centric"]
+	},
+	{
+		"name" : "De' Medici",
+		"authors" : ["Giulia Barbano", "Renato Ramonda"],
+		"tags" : ["Historical", "Political", "Renaissance"]
+	},
+	{
+		"name" : "Dragon Slayers",
+		"authors" : ["Logan Bonner"],
+		"tags" : ["Fantasy", "Swords And Sorcery"]
+	},
+	{
+		"name" : "Flight 1180",
+		"authors" : ["Will Hindmarch"],
+		"tags" : ["Travel", "Flashbacks", "Advanced level"]
+	},
+	{
+		"name" : "Flyover",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["USA-centric", "Middle America"]
+	},
+	{
+		"name" : "Gangster London",
+		"authors" : ["Graham Walmsley"],
+		"tags" : ["Crime"]
+	},
+	{
+		"name" : "Quest For The Golden Panda",
+		"authors" : ["Jennifer Wong"],
+		"tags" : ["Ancient China"]
+	},
+	{
+		"name" : "Havana 1953",
+		"authors" : ["Chris Bennet"],
+		"tags" : ["Historical", "Political", "Cuba"]
+	},
+	{
+		"name" : "Heroes of Pinnacle City",
+		"authors" : ["Ryan Consell", "Josh Hoey", "Anna Kreider", "Kit Kreider"],
+		"tags" : ["Superheroes"]
+	},
+	{
+		"name" : "Hollywood Wives",
+		"authors" : ["Jobe Bittman"],
+		"tags" : ["Celebrity"]
+	},
+	{
+		"name" : "Home Invasion",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Neighborhood", "Weird"]
+	},
+	{
+		"name" : "Hong Kong TPK",
+		"authors" : ["Corey Reid", "John Rogers", "Gareth-Michael Skarka"],
+		"tags" : ["Hong Kong", "Politics", "Crime"]
+	},
+	{
+		"name" : "Horse Fever",
+		"authors" : ["Ariele Agostini", "Flavio Mortarino", "Lorenzo Silva", "Lorenzo Tucci Sorrentino"],
+		"tags" : ["Gambling", "Crime", "Horses"]
 	}
 ]
