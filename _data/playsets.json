@@ -92,7 +92,7 @@
 	{
 		"name" : "Hong Kong TPK",
 		"authors" : ["Corey Reid", "John Rogers", "Gareth-Michael Skarka"],
-		"tags" : ["Hong Kong", "Politics", "Crime"]
+		"tags" : ["Hong Kong", "Political", "Crime"]
 	},
 	{
 		"name" : "Horse Fever",
@@ -128,5 +128,30 @@
 		"name" : "Lucky Strike",
 		"authors" : ["Jason Morningstar"],
 		"tags" : ["World War II"]
+	},
+	{
+		"name" : "Manna Hotel",
+		"authors" : ["Dan Puckett"],
+		"tags" : ["Weird"]
+	},
+	{
+		"name" : "News Channel 6",
+		"authors" : ["Ken Coble", "Tom Gurganus", "Chris Norwood"],
+		"tags" : ["Media", "Journalism"]
+	},
+	{
+		"name" : "Objective Zebra",
+		"authors" : ["Jérôme Larré"],
+		"tags" : ["Submarine", "World War II", "Weird"]
+	},
+	{
+		"name" : "Reconstruction",
+		"authors" : ["Tom Gurganus"],
+		"tags" : ["American Civil War"]
+	},
+	{
+		"name" : "Red Front",
+		"authors" : ["Malcolm Craig", "Per Fischer"],
+		"tags" : ["70s", "Political", "Weird"]
 	}
 ]
