@@ -1,7 +1,7 @@
 ---
 ---
 
-var data = {{site.data.rulesets | jsonify}};
+var data = {{site.data.playsets | jsonify}};
 
 var arrays_to_strings = function(o) {
 	for (var prop in o) {

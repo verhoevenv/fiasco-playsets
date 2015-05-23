@@ -1,9 +1,9 @@
-title: Fiasco Rulesets
+title: Fiasco Playsets
 email: verhoevenv@gmail.com
 description: >
-  A listing of Fiasco rulesets
+  A listing of Fiasco playsets
 baseurl: ""
-url: "http://verhoevenv.github.io/fiasco-rulesets"
+url: "http://verhoevenv.github.io/fiasco-playsets"
 
 markdown: kramdown
 
