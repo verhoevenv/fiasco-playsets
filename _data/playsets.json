@@ -36,7 +36,7 @@
 	},
 	{
 		"name" : "Dallas 1963",
-		"authors" : ["Chris Bennet"],
+		"authors" : ["Chris Bennett"],
 		"tags" : ["Historical", "Political", "JFK", "USA-centric"]
 	},
 	{
@@ -71,7 +71,7 @@
 	},
 	{
 		"name" : "Havana 1953",
-		"authors" : ["Chris Bennet"],
+		"authors" : ["Chris Bennett"],
 		"tags" : ["Historical", "Political", "Cuba"]
 	},
 	{
@@ -113,5 +113,20 @@
 		"name" : "Living Dead",
 		"authors" : ["James Gabrielsen"],
 		"tags" : ["Zombie", "Special Rules", "Playset Modifier"]
+	},
+	{
+		"name" : "London, 1593",
+		"authors" : ["Will Hindmarch", "Kenneth Hite"],
+		"tags" : ["Victorian", "Shakespeare", "Historical"]
+	},
+	{
+		"name" : "Los Angelos 1936",
+		"authors" : ["Chris Bennett"],
+		"tags" : ["Noir"]
+	},
+	{
+		"name" : "Lucky Strike",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["World War II"]
 	}
 ]
