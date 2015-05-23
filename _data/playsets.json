@@ -152,6 +152,21 @@
 	{
 		"name" : "Red Front",
 		"authors" : ["Malcolm Craig", "Per Fischer"],
-		"tags" : ["70s", "Political", "Weird"]
+		"tags" : ["70s", "Political", "Rote Armee Fraktion"]
+	},
+	{
+		"name" : "Salem 1692",
+		"authors" : ["Lillian Cohen-Moore", "Logan Bonner"],
+		"tags" : ["Witchcraft"]
+	},
+	{
+		"name" : "Saturday Night '78",
+		"authors" : ["Will Hindmarch", "Wil Wheaton", "Jason Morningstar"],
+		"tags" : ["Disco", "70s"]
+	},
+	{
+		"name" : "The Beast Of Sucker Creek",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Horror", "Folklore", "Special Rules"]
 	}
 ]
