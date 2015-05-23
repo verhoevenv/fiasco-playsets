@@ -1,7 +1,7 @@
 ---
 ---
 
-var data = {{site.data.playsets | jsonify}};
+// assuming fiasco_playsets is a variable in global scope
 
 var arrays_to_strings = function(o) {
 	for (var prop in o) {
@@ -14,8 +14,8 @@ var arrays_to_strings = function(o) {
 }
 
 $(function () {
-	data = data.map(arrays_to_strings);
+	var data_for_table = fiasco_playsets.map(arrays_to_strings);
     $('#table').bootstrapTable({
-        data: data
+        data: data_for_table
     });
 });
