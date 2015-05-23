@@ -98,5 +98,20 @@
 		"name" : "Horse Fever",
 		"authors" : ["Ariele Agostini", "Flavio Mortarino", "Lorenzo Silva", "Lorenzo Tucci Sorrentino"],
 		"tags" : ["Gambling", "Crime", "Horses"]
+	},
+	{
+		"name" : "The Jersey Side",
+		"authors" : ["Brennan Taylor"],
+		"tags" : ["USA-centric", "Urban"]
+	},
+	{
+		"name" : "Last Frontier",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Alaska", "USA-centric"]
+	},
+	{
+		"name" : "Living Dead",
+		"authors" : ["James Gabrielsen"],
+		"tags" : ["Zombie", "Special Rules", "Playset Modifier"]
 	}
 ]
