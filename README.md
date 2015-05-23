@@ -20,6 +20,8 @@ There are a couple of ways to get the data:
 2. Include [this javascript file][public-js] that loads the data in a ``fiasco_playsets`` global variable. This is the best way I know to get around the same-origin policy on Github pages. You once again don't want to build a stable application on my version of the data.
 3. Fork the repo and do as you please.
 
+Please be aware that the data uses non-ascii characters, the encoding should be UTF-8.
+
 [fiasco]: http://www.bullypulpitgames.com/games/fiasco/
 [public-site]: http://verhoevenv.github.io/fiasco-playsets/
 [public-json]: http://verhoevenv.github.io/fiasco-playsets/playsets.json
