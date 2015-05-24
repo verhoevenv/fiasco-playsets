@@ -52,12 +52,12 @@
 	{
 		"name" : "Flight 1180",
 		"authors" : ["Will Hindmarch"],
-		"tags" : ["Travel", "Flashbacks", "Advanced level"]
+		"tags" : ["Travel", "Flashbacks", "Advanced level", "Contemporary"]
 	},
 	{
 		"name" : "Flyover",
 		"authors" : ["Jason Morningstar"],
-		"tags" : ["USA-centric", "Middle America"]
+		"tags" : ["USA-centric", "Middle America", "Contemporary"]
 	},
 	{
 		"name" : "Gangster London",
@@ -82,12 +82,12 @@
 	{
 		"name" : "Hollywood Wives",
 		"authors" : ["Jobe Bittman"],
-		"tags" : ["Celebrity"]
+		"tags" : ["Celebrity", "Contemporary"]
 	},
 	{
 		"name" : "Home Invasion",
 		"authors" : ["Jason Morningstar"],
-		"tags" : ["Neighborhood", "Weird"]
+		"tags" : ["Suburban", "Weird", "Contemporary"]
 	},
 	{
 		"name" : "Hong Kong TPK",
@@ -102,12 +102,12 @@
 	{
 		"name" : "The Jersey Side",
 		"authors" : ["Brennan Taylor"],
-		"tags" : ["USA-centric", "Urban"]
+		"tags" : ["USA-centric", "Urban", "Contemporary"]
 	},
 	{
 		"name" : "Last Frontier",
 		"authors" : ["Jason Morningstar"],
-		"tags" : ["Alaska", "USA-centric"]
+		"tags" : ["Alaska", "USA-centric", "Contemporary"]
 	},
 	{
 		"name" : "Living Dead",
@@ -137,7 +137,7 @@
 	{
 		"name" : "News Channel 6",
 		"authors" : ["Ken Coble", "Tom Gurganus", "Chris Norwood"],
-		"tags" : ["Media", "Journalism"]
+		"tags" : ["Media", "Journalism", "Contemporary"]
 	},
 	{
 		"name" : "Objective Zebra",
@@ -152,7 +152,7 @@
 	{
 		"name" : "Red Front",
 		"authors" : ["Malcolm Craig", "Per Fischer"],
-		"tags" : ["70s", "Political", "Rote Armee Fraktion"]
+		"tags" : ["70s", "Political"]
 	},
 	{
 		"name" : "Salem 1692",
@@ -168,5 +168,88 @@
 		"name" : "The Beast Of Sucker Creek",
 		"authors" : ["Jason Morningstar"],
 		"tags" : ["Horror", "Folklore", "Special Rules"]
+	},
+	{
+		"name" : "Tartan Noir",
+		"authors" : ["DC Bradshaw"],
+		"tags" : ["Scotland", "Noir"]
+	},
+	{
+		"name" : "The Penthouse",
+		"authors" : ["Dan Puckett"],
+		"tags" : ["Decadence"]
+	},
+	{
+		"name" : "The Zoo",
+		"authors" : ["Will Hindmarch"],
+		"tags" : ["Zoo"]
+	},
+	{
+		"name" : "Touring Rock Band",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Rock and Roll"]
+	},
+	{
+		"name" : "Touring Rock Band 2: When The Music Stopped",
+		"authors" : ["Chris Bennett", "Jobe Bittman", "Logan Bonner",
+			"Per Fischer", "James Gabrielsen", "Stephen Granade", "Jérôme Larré",
+			"Jason Morningstar", "Megan Pedersen", "Dan Puckett", "John Rogers",
+			"Steve Segedy", "Gareth-Michael Skarka"],
+		"tags" : ["Rock and Roll", "Sequel"]
+	},
+	{
+		"name" : "Town And Gown",
+		"authors" : ["Stephen Granade"],
+		"tags" : ["University", "Contemporary"]
+	},
+	{
+		"name" : "Transatlantic",
+		"authors" : ["E. Tage Larse"],
+		"tags" : ["Cruise"]
+	},
+	{
+		"name" : "White Hole",
+		"authors" : ["Rafael Chandler"],
+		"tags" : ["Science Fiction", "Special Rules"]
+	},
+	{
+		"name" : "Main St.",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Urban", "Contemporary", "Fiasco Rulebook"]
+	},
+	{
+		"name" : "Boomtown",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Wild West", "Fiasco Rulebook"]
+	},
+	{
+		"name" : "Tales From Suburbia",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Suburban", "Contemporary", "Fiasco Rulebook"]
+	},
+	{
+		"name" : "The Ice",
+		"authors" : ["Jason Morningstar"],
+		"tags" : ["Antarctica", "Fiasco Rulebook"]
+	},
+	{
+		"name" : "Fiasco High",
+		"authors" : ["Jason Morningstar", "Steve Segedy"],
+		"tags" : ["High School", "Contemporary", "Fiasco Companion"]
+	},
+	{
+		"name" : "Regina's Wedding",
+		"authors" : ["Jason Morningstar", "Steve Segedy"],
+		"tags" : ["Wedding", "Contemporary", "Fiasco Companion"]
+	},
+	{
+		"name" : "Vegas",
+		"authors" : ["Jason Morningstar", "Steve Segedy"],
+		"tags" : ["Decadence", "Contemporary", "Gambling", "Fiasco Companion"]
+	},
+	{
+		"name" : "Mission to Mercury",
+		"authors" : ["Jason Morningstar", "Steve Segedy"],
+		"tags" : ["Science Fiction", "Fiasco Companion", "Downloadable extras"]
 	}
 ]
